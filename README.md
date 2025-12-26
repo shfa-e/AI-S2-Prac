@@ -1,1 +1,1 @@
-# KAUST-AI-Stage2-Practice
+# S2-Practice
